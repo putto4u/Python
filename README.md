@@ -1,4 +1,4 @@
-# Lec_Python
+# Python
 파이썬 언어 강의 Book
 
 
@@ -27,3 +27,6 @@
 4. **파이썬 버전 설치:** `pyenv install 3.x.x` 명령을 사용하여 원하는 파이썬 버전을 컴파일하고 설치합니다.
 
 이러한 단계를 따르면, 복제된 모든 VM에서 `pyenv`를 통해 안정적으로 파이썬 환경을 관리할 수 있습니다.
+
+pyenv 설치하기 : https://github.com/putto4u/Python/blob/main/00.%EC%82%AC%EC%A0%84%EC%9E%91%EC%97%85pyenv%EC%84%A4%EC%B9%98.md
+
